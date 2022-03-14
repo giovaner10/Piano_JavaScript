@@ -1,5 +1,5 @@
 <h1 align="center">
-    :weight_lifting_woman: Construindo Um Site de Academia
+    :weight_lifting_woman: Construindo Um Piano com JS
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alvaroaxsmith/projeto-1-soulcode">
