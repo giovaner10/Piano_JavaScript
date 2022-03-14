@@ -32,11 +32,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <a id="ancora2"></a>
 ## 💻 Projeto
-Esse projeto foi elaborado durante o bootcamp de FullStack Java da [SoulCode](https://soulcodeacademy.org/index.html). A proposta foi construir um site a partir de um [Wireframe no Figma](https://www.figma.com/file/K8m7ZQaPKDHkuDBzGoL8WU/Site?node-id=0%3A1), utilizando apenas HTML, CSS e Javascript, sem a utilização de plugins ou frameworks.
+Esse projeto foi elaborado durante o bootcamp de FullStack Java da [SoulCode](https://soulcodeacademy.org/index.html). A proposta foi construir um piano com js, html 5 e css 3.
 
 <a id="ancora3"></a>
 ## :framed_picture: Imagens do Site
 
 |   Prints do projeto  | 
-|---|
 | ![Home](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-home.jpeg)  | ![Planos](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-planos.jpeg)  | ![Localizacao](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-localizacao.jpeg)  | 
