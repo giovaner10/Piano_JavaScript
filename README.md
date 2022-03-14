@@ -37,6 +37,5 @@ Esse projeto foi elaborado durante o bootcamp de FullStack Java da [SoulCode](ht
 <a id="ancora3"></a>
 ## :framed_picture: Imagens do Site
 
-| Home(desktop)  | Planos(desktop) | Localização(desktop) | 
-|---|---|
+
 | ![Home](https://github.com/giovaner10/piano_js/blob/main/img/Captura%20de%20tela%202022-03-04%20233512.png)  | ![Planos](https://github.com/giovaner10/piano_js/blob/main/img/Captura%20de%20tela%202022-03-04%20233528.png)  | 
