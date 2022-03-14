@@ -37,7 +37,6 @@ Esse projeto foi elaborado durante o bootcamp de FullStack Java da [SoulCode](ht
 <a id="ancora3"></a>
 ## :framed_picture: Imagens do Site
 
-|   Prints do projeto  | 
-|---|
-
- (https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-home.jpeg)  (https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-planos.jpeg)  (https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-localizacao.jpeg)  
+| Home(desktop)  | Planos(desktop) | Localização(desktop) | 
+|---|---|---|
+| ![Home](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-home.jpeg)  | ![Planos](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-planos.jpeg)  | ![Localizacao](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-localizacao.jpeg)  | 
