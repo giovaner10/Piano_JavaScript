@@ -38,5 +38,4 @@ Esse projeto foi elaborado durante o bootcamp de FullStack Java da [SoulCode](ht
 ## :framed_picture: Imagens do Site
 
 
-| ![Home](https://github.com/giovaner10/piano_js/blob/main/img/Captura%20de%20tela%202022-03-04%20233512.png)  | ![Planos](https://github.com/giovaner10/piano_js/blob/main/img/Captura%20de%20tela%202022-03-04%20233528.png)  | ![Localizacao](https://raw.githubusercontent.com/alvaroaxsmith/projeto-1-soulcode/main/.github/images/desktop-localizacao.jpeg)  | 
- 
+| ![Home](https://github.com/giovaner10/piano_js/blob/main/img/Captura%20de%20tela%202022-03-04%20233512.png)  | ![Planos](https://github.com/giovaner10/piano_js/blob/main/img/Captura%20de%20tela%202022-03-04%20233528.png)  | 
